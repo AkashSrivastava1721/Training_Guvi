@@ -18,3 +18,16 @@
 ## Answer: 
 
 Link: https://github.com/AkashSrivastava1721/Training_Guvi/blob/main/Day%201/Task_1.pdf
+
+
+## Q: SQLBolt Lesson 1 to 9.
+
+Link: https://github.com/AkashSrivastava1721/Training_Guvi/blob/main/Day%201/01.JPG
+Link: https://github.com/AkashSrivastava1721/Training_Guvi/blob/main/Day%201/02.JPG
+Link: https://github.com/AkashSrivastava1721/Training_Guvi/blob/main/Day%201/03.JPG
+Link: https://github.com/AkashSrivastava1721/Training_Guvi/blob/main/Day%201/04.JPG
+Link: https://github.com/AkashSrivastava1721/Training_Guvi/blob/main/Day%201/05.JPG
+Link: https://github.com/AkashSrivastava1721/Training_Guvi/blob/main/Day%201/06.JPG
+Link: https://github.com/AkashSrivastava1721/Training_Guvi/blob/main/Day%201/07.JPG
+Link: https://github.com/AkashSrivastava1721/Training_Guvi/blob/main/Day%201/08.JPG
+Link: https://github.com/AkashSrivastava1721/Training_Guvi/blob/main/Day%201/09.JPG
