@@ -16,3 +16,5 @@
 6. List all the roles performed by particular artist
 
 ## Answer: 
+
+Link: https://github.com/AkashSrivastava1721/Training_Guvi/blob/main/Day%201/Task_1.pdf
