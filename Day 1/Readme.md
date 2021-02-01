@@ -22,12 +22,12 @@ Link: https://github.com/AkashSrivastava1721/Training_Guvi/blob/main/Day%201/Tas
 
 ## Q: SQLBolt Lesson 1 to 9.
 
-Link: https://github.com/AkashSrivastava1721/Training_Guvi/blob/main/Day%201/01.JPG
-Link: https://github.com/AkashSrivastava1721/Training_Guvi/blob/main/Day%201/02.JPG
-Link: https://github.com/AkashSrivastava1721/Training_Guvi/blob/main/Day%201/03.JPG
-Link: https://github.com/AkashSrivastava1721/Training_Guvi/blob/main/Day%201/04.JPG
-Link: https://github.com/AkashSrivastava1721/Training_Guvi/blob/main/Day%201/05.JPG
-Link: https://github.com/AkashSrivastava1721/Training_Guvi/blob/main/Day%201/06.JPG
-Link: https://github.com/AkashSrivastava1721/Training_Guvi/blob/main/Day%201/07.JPG
-Link: https://github.com/AkashSrivastava1721/Training_Guvi/blob/main/Day%201/08.JPG
-Link: https://github.com/AkashSrivastava1721/Training_Guvi/blob/main/Day%201/09.JPG
+1. Link: https://github.com/AkashSrivastava1721/Training_Guvi/blob/main/Day%201/01.JPG
+2. Link: https://github.com/AkashSrivastava1721/Training_Guvi/blob/main/Day%201/02.JPG
+3. Link: https://github.com/AkashSrivastava1721/Training_Guvi/blob/main/Day%201/03.JPG
+4. Link: https://github.com/AkashSrivastava1721/Training_Guvi/blob/main/Day%201/04.JPG
+5. Link: https://github.com/AkashSrivastava1721/Training_Guvi/blob/main/Day%201/05.JPG
+6. Link: https://github.com/AkashSrivastava1721/Training_Guvi/blob/main/Day%201/06.JPG
+7. Link: https://github.com/AkashSrivastava1721/Training_Guvi/blob/main/Day%201/07.JPG
+8. Link: https://github.com/AkashSrivastava1721/Training_Guvi/blob/main/Day%201/08.JPG
+9. Link: https://github.com/AkashSrivastava1721/Training_Guvi/blob/main/Day%201/09.JPG
