@@ -50,13 +50,20 @@
                         text3.innerText= "Region: "+reg;
                         text5.innerText= "------------------------------------------------------------------";
                         div.setAttribute("card","");
+                        div.style.width=50;
+                        div.style.heignt=100;
+                        div.style.background="Aquamarine";
+                        div.style.border=20;
+                        div.style.padding=20;
+                        div.style.borderColor="black";
+                        div.style.paddingColor="black";
+                        div.appendChild(text0);
                         div.appendChild(img);
-                        document.body.appendChild(text0);
+                        div.appendChild(text);
+                        div.appendChild(text1);
+                        div.appendChild(text2);
+                        div.appendChild(text3);
                         document.body.appendChild(div);
-                        document.body.appendChild(text);
-                        document.body.appendChild(text1);
-                        document.body.appendChild(text2);
-                        document.body.appendChild(text3);
                         var button = document.createElement("button");
                         button.innerHTML = "Temperature";
                         var body = document.getElementsByTagName("body")[0];
@@ -64,7 +71,8 @@
                         button.addEventListener ("click", function() {
                             display1(cap);
                         });
-                        document.body.appendChild(text5);
+                        button.style.background="red";
+                        //document.body.appendChild(text5);
                     }
                 }
             ); 
