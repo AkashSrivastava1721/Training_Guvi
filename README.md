@@ -5,4 +5,6 @@
 3. Day 3 Task: https://github.com/AkashSrivastava1721/Training_Guvi/tree/main/Day3
 4. Day 4 Task: https://github.com/AkashSrivastava1721/Training_Guvi/tree/main/Day4
 5. Day 5 Task: https://github.com/AkashSrivastava1721/Training_Guvi/tree/main/Day5
-5. Days Deployed Github Link: https://akashsrivastava1721.github.io/Country_Weather.github.io/
+6. Flag_Weather Deployed Github Link: https://akashsrivastava1721.github.io/Country_Weather.github.io/
+7. Day 6 Task: https://github.com/AkashSrivastava1721/Training_Guvi/tree/main/Day6
+8. Cricket Deployed Github Link:https://akashsrivastava1721.github.io/cricket.github.io/
