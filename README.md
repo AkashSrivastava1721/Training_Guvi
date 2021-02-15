@@ -9,6 +9,6 @@
 7. Day 6 Task: https://github.com/AkashSrivastava1721/Training_Guvi/tree/main/Day6
 8. Cricket Deployed Github Link:https://akashsrivastava1721.github.io/cricket.github.io/
 9. Day 7 Task: https://github.com/AkashSrivastava1721/Training_Guvi/tree/main/Day7-Angular1
-10: Deployed Link: Had an issue while deploying
-11: Day 8 Task: https://github.com/AkashSrivastava1721/Training_Guvi/tree/main/Day8_Angulartask2
-12: Deplyed Link: https://peaceful-nightingale-b82474.netlify.app/
+10. Deployed Link: Had an issue while deploying
+11. Day 8 Task: https://github.com/AkashSrivastava1721/Training_Guvi/tree/main/Day8_Angulartask2
+12. Deplyed Link: https://peaceful-nightingale-b82474.netlify.app/
